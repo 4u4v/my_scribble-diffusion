@@ -12,21 +12,21 @@ export default function Footer() {
     <footer className="mt-20">
       <div className="">
         <p className="text-center">
-          Scribble Diffusion is an open-source project from{" "}
+        CopyRight {" "}
           <Link
             className="underline"
-            href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
+            href="https://www.4u4v.com"
             target="_blank"
           >
-            Replicate
+            4u4v.com
           </Link>
-          .
+          All Rights Reserved.
         </p>
 
         <nav className="text-center mt-16">
           <Link
             className={linkStyles}
-            href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
+            href="#"
           >
             <Image
               src="/logomarks/replicate.svg"
@@ -40,7 +40,7 @@ export default function Footer() {
           </Link>
           <Link
             className={linkStyles}
-            href="https://upload.io?utm_source=project&utm_campaign=scribblediffusion"
+            href="#"
           >
             <Image
               src="/logomarks/uploadio.svg"
@@ -52,7 +52,7 @@ export default function Footer() {
               unoptimized={true}
             />
           </Link>
-          <Link className={linkStyles} href="https://vercel.com/templates/ai">
+          <Link className={linkStyles} href="#">
             <Image
               src="/logomarks/vercel.svg"
               data-tooltip-id="vercel-tooltip"
@@ -64,7 +64,7 @@ export default function Footer() {
             />
           </Link>
 
-          <Link className={linkStyles} href="https://youtu.be/6z07OdbrWOs">
+          <Link className={linkStyles} href="#">
             <Image
               src="/logomarks/youtube.svg"
               data-tooltip-id="youtube-tooltip"
@@ -77,8 +77,7 @@ export default function Footer() {
           </Link>
           <Link
             className={linkStyles}
-            href="https://github.com/replicate/scribble-diffusion"
-          >
+            href="#">
             <Image
               src="/logomarks/github.svg"
               data-tooltip-id="github-tooltip"

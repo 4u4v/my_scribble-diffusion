@@ -1,9 +1,9 @@
 {
   "name": "scribble-diffusion",
-  "description": "Turn your sketch into a refined image using AI",
-  "appName": "Scribble Diffusion",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "description": "使用AI人工智能把你的草图变成一个精致的图像",
+  "appName": "AI智能草图生成图画",
+  "appSubtitle": "使用AI人工智能把你的草图变成一个精致的图像",
+  "appMetaDescription": "使用AI人工智能把你的草图变成一个精致的图像",
   "version": "1.0.0",
   "private": true,
   "scripts": {

@@ -99,7 +99,6 @@ export default function Home() {
           content={`${HOST}/og-b7xwc4g4wrdrtneilxnbngzvti.jpg`}
         />
         <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </Head>
       <main className="container max-w-[1024px] mx-auto p-5 ">
         <div className="container max-w-[512px] mx-auto">
